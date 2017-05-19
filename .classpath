@@ -1,0 +1,11 @@
+<classpath>
+  <classpathentry kind="src" path="src\main\scala"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry sourcepath="C:\Users\Shane\.ivy2\cache\com.neovisionaries\nv-websocket-client\srcs\nv-websocket-client-2.2-sources.jar" kind="lib" path="C:\Users\Shane\.ivy2\cache\com.neovisionaries\nv-websocket-client\bundles\nv-websocket-client-2.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\Shane\.ivy2\cache\com.neovisionaries\nv-websocket-client\docs\nv-websocket-client-2.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
